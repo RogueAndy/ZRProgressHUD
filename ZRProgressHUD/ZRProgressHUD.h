@@ -1,6 +1,6 @@
 //
-//  XhlProgressHUD.h
-//  XhlProgressHUDDemo
+//  ZRProgressHUD.h
+//  ZRProgressHUDDemo
 //
 //  Created by rogue on 2019/1/7.
 //  Copyright © 2019 rogue. All rights reserved.
